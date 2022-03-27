@@ -13,6 +13,7 @@ designは下図の通りです。
 
 修正してくれた方がいらしたら、DiscordかTwitterに連絡ください。Luna.#9802
 
+ファイル名は気にしないでください。
 
 I made a little something in Xaml.
 
@@ -27,6 +28,8 @@ See for yourself there.
 (I made a normal mistake and it stopped working...)
 
 If anyone has any corrections, please contact me on Discord or Twitter Luna.#9802
+
+Never mind the file name.
 
 credit Luna.#9802 @Luna_dorf
 
