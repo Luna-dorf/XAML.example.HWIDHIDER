@@ -1,0 +1,15 @@
+C:\Users\Kaka4\source\repos\ウマ娘プリティーダービー\ウマ娘プリティーダービー\bin\Release\ウマ娘プリティーダービー.exe.config
+C:\Users\Kaka4\source\repos\ウマ娘プリティーダービー\ウマ娘プリティーダービー\bin\Release\ウマ娘プリティーダービー.exe
+C:\Users\Kaka4\source\repos\ウマ娘プリティーダービー\ウマ娘プリティーダービー\bin\Release\ウマ娘プリティーダービー.pdb
+C:\Users\Kaka4\source\repos\ウマ娘プリティーダービー\ウマ娘プリティーダービー\obj\Release\MainWindow.g.cs
+C:\Users\Kaka4\source\repos\ウマ娘プリティーダービー\ウマ娘プリティーダービー\obj\Release\App.g.cs
+C:\Users\Kaka4\source\repos\ウマ娘プリティーダービー\ウマ娘プリティーダービー\obj\Release\ウマ娘プリティーダービー_MarkupCompile.cache
+C:\Users\Kaka4\source\repos\ウマ娘プリティーダービー\ウマ娘プリティーダービー\obj\Release\ウマ娘プリティーダービー_MarkupCompile.lref
+C:\Users\Kaka4\source\repos\ウマ娘プリティーダービー\ウマ娘プリティーダービー\obj\Release\MainWindow.baml
+C:\Users\Kaka4\source\repos\ウマ娘プリティーダービー\ウマ娘プリティーダービー\obj\Release\ウマ娘プリティーダービー.g.resources
+C:\Users\Kaka4\source\repos\ウマ娘プリティーダービー\ウマ娘プリティーダービー\obj\Release\ウマ娘プリティーダービー.Properties.Resources.resources
+C:\Users\Kaka4\source\repos\ウマ娘プリティーダービー\ウマ娘プリティーダービー\obj\Release\ウマ娘プリティーダービー.csproj.GenerateResource.cache
+C:\Users\Kaka4\source\repos\ウマ娘プリティーダービー\ウマ娘プリティーダービー\obj\Release\ウマ娘プリティーダービー.csproj.CoreCompileInputs.cache
+C:\Users\Kaka4\source\repos\ウマ娘プリティーダービー\ウマ娘プリティーダービー\obj\Release\ウマ娘プリティーダービー.exe
+C:\Users\Kaka4\source\repos\ウマ娘プリティーダービー\ウマ娘プリティーダービー\obj\Release\ウマ娘プリティーダービー.pdb
+C:\Users\Kaka4\source\repos\ウマ娘プリティーダービー\ウマ娘プリティーダービー\obj\Release\ウマ娘プリティーダービー.csproj.AssemblyReference.cache

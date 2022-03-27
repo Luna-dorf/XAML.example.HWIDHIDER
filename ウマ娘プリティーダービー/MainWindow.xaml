@@ -1,0 +1,23 @@
+﻿<Window x:Class="ウマ娘プリティーダービー.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ウマ娘プリティーダービー"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="191.785" Width="245.333" Background="{x:Null}" Foreground="{x:Null}"
+        ResizeMode="NoResize" WindowStyle="None">
+
+    <Grid x:Name="Main" Margin="0,0,1,0.333">
+        <Rectangle Fill="#FF16161A"/>
+        <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Height="27" Margin="10,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="99" FontSize="18" Text="HWID Hider" Foreground="#FFFFFFFE" d:LayoutOverrides="HorizontalAlignment"/>
+        <TextBlock x:Name="textBlock_Copy" HorizontalAlignment="Left" Margin="10,42,0,87" TextWrapping="Wrap" Width="197" FontSize="14" Foreground="#FFFFFFFE"><Run Text="You will not be able to shut down, but that is the specification."/><LineBreak/><Run/></TextBlock>
+        <Rectangle Fill="#FF7F5AF0" HorizontalAlignment="Left" Margin="10,0,0,57" RadiusY="6" RadiusX="6" Width="99" Height="25" VerticalAlignment="Bottom"/>
+        <Rectangle Fill="#FF7F5AF0" HorizontalAlignment="Right" Margin="0,0,10,57" RadiusY="6" RadiusX="6" Width="99" Height="25" VerticalAlignment="Bottom"/>
+        <Rectangle Fill="#FF7F5AF0" HorizontalAlignment="Left" Margin="10,0,0,10" RadiusY="6" RadiusX="6" Width="99" Height="25" VerticalAlignment="Bottom"/>
+        <Button x:Name="button" Content="Start" HorizontalAlignment="Left" Height="25" Margin="10,0,0,57" VerticalAlignment="Bottom" Width="99" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="#FFFFFFFE" Click="button_Click"/>
+        <Button x:Name="button_Copy" Content="Stop" HorizontalAlignment="Left" Height="25" Margin="10,0,0,10" VerticalAlignment="Bottom" Width="99" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="#FFFFFFFE" Click="button_Copy_Click"/>
+        <TextBlock x:Name="textBlock_Copy1" HorizontalAlignment="Left" Height="25" Margin="142,0,0,9.797" TextWrapping="Wrap" VerticalAlignment="Bottom" Width="84" Text="Luna.#0420" Foreground="#FFFFFFFE" FontSize="16"/>
+        <Button x:Name="button_Copy1" Content="Check" HorizontalAlignment="Right" Height="25" Margin="0,0,10,57" VerticalAlignment="Bottom" Width="99" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="#FFFFFFFE" Click="button_Copy1_Click"/>
+    </Grid>
+</Window>
